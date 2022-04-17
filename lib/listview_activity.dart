@@ -1,7 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:listview_example/email_data.dart';
-
 import 'package:listview_example/listview_title.dart';
 
 class ListViewActivity extends StatelessWidget {
